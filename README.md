@@ -233,3 +233,11 @@ You might notice that there are [some missing translations here](docs/README.md#
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+# Finance Tracker (Fork)
+This is a fork of the original Finance Tracker created by [Original Author](https://github.com/original_author).  
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
+
+
